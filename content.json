@@ -1,0 +1,584 @@
+[
+  {
+    "id": "argentina",
+    "name_en": "Argentina",
+    "name_it": "Argentina",
+    "flag": "🇦🇷",
+    "capital_en": "Buenos Aires",
+    "capital_it": "Buenos Aires",
+    "dish": {
+      "name": "Asado",
+      "alternatives": [
+        "Empanadas",
+        "Locro"
+      ],
+      "story_en": "Asado is much more than a barbecue: it is a slow, social ritual in which beef cuts, chorizo and morcilla are grilled over wood embers or charcoal by the asador. Weekend asados with family and friends are a cornerstone of Argentine life, usually served with chimichurri and salads.",
+      "story_it": "L'asado è molto più di una grigliata: è un rito lento e conviviale in cui tagli di manzo, chorizo e morcilla vengono cotti sulla brace di legna o carbone dall'asador. L'asado del fine settimana con famiglia e amici è un pilastro della vita argentina, di solito accompagnato da chimichurri e insalate."
+    },
+    "music": {
+      "genre_en": "Tango",
+      "genre_it": "Tango",
+      "song": "Por una cabeza",
+      "composer": "Carlos Gardel (music), Alfredo Le Pera (lyrics)",
+      "artist": "Carlos Gardel",
+      "year": "1935",
+      "song_genre": "Tango",
+      "url": "https://www.youtube.com/watch?v=UcUekXtC2wY"
+    },
+    "fun_fact_en": "Tango was born in the working-class neighbourhoods around the Río de la Plata, and in 2009 UNESCO inscribed it as Intangible Cultural Heritage in a joint nomination by Argentina and Uruguay.",
+    "fun_fact_it": "Il tango è nato nei quartieri popolari sulle rive del Río de la Plata e nel 2009 l'UNESCO lo ha iscritto nel Patrimonio culturale immateriale con una candidatura congiunta di Argentina e Uruguay."
+  },
+  {
+    "id": "bolivia",
+    "name_en": "Bolivia",
+    "name_it": "Bolivia",
+    "flag": "🇧🇴",
+    "capital_en": "Sucre (constitutional capital) / La Paz (seat of government)",
+    "capital_it": "Sucre (capitale costituzionale) / La Paz (sede del governo)",
+    "dish": {
+      "name": "Salteña",
+      "alternatives": [
+        "Silpancho",
+        "Pique macho"
+      ],
+      "story_en": "The salteña is a baked, slightly sweet pastry filled with a juicy stew of meat or chicken, potatoes, peas, egg and olives, traditionally eaten mid-morning. Popular tradition links its name to an exiled family from Salta (Argentina), but historians note that similar empanadas were already made in colonial Potosí, so its exact origin is debated. Eating one without spilling the broth is considered an art!",
+      "story_it": "La salteña è un fagottino al forno, leggermente dolce, ripieno di uno stufato succoso di carne o pollo, patate, piselli, uovo e olive, che si mangia tradizionalmente a metà mattina. La tradizione popolare lega il nome a una famiglia esule da Salta (Argentina), ma gli storici ricordano che empanadas simili si preparavano già nella Potosí coloniale: l'origine esatta è quindi dibattuta. Mangiarla senza far cadere il brodo è considerata un'arte!"
+    },
+    "music": {
+      "genre_en": "Andean folk music (caporales, morenada, huayño)",
+      "genre_it": "Musica folk andina (caporales, morenada, huayño)",
+      "song": "Llorando se fue",
+      "composer": "Ulises Hermosa & Gonzalo Hermosa",
+      "artist": "Los Kjarkas",
+      "year": "1981",
+      "song_genre": "Andean folk (saya / caporal rhythm)",
+      "url": "https://www.youtube.com/watch?v=k69DmYvUPD8"
+    },
+    "fun_fact_en": "The worldwide 1989 hit \"Lambada\" by Kaoma was based on Los Kjarkas' \"Llorando se fue\" without credit; the Bolivian band took legal action in France and in 1990 obtained recognition and a share of the royalties.",
+    "fun_fact_it": "La hit mondiale \"Lambada\" dei Kaoma (1989) era basata su \"Llorando se fue\" dei Los Kjarkas senza citarli; il gruppo boliviano fece causa in Francia e nel 1990 ottenne il riconoscimento e una parte dei diritti d'autore."
+  },
+  {
+    "id": "brazil",
+    "name_en": "Brazil",
+    "name_it": "Brasile",
+    "flag": "🇧🇷",
+    "capital_en": "Brasília",
+    "capital_it": "Brasilia",
+    "dish": {
+      "name": "Feijoada",
+      "alternatives": [
+        "Moqueca",
+        "Pão de queijo"
+      ],
+      "story_en": "Feijoada is a rich stew of black beans slow-cooked with various cuts of pork and beef, served with rice, farofa (toasted cassava flour), sautéed collard greens and orange slices. It is a festive, shared meal, often enjoyed at weekends. A popular story says it was created by enslaved people from leftover cuts, but many historians instead trace it to European stews such as the Portuguese cozido.",
+      "story_it": "La feijoada è un ricco stufato di fagioli neri cotti a lungo con vari tagli di maiale e manzo, servito con riso, farofa (farina di manioca tostata), cavolo saltato e fette d'arancia. È un pasto festivo e conviviale, spesso gustato nel fine settimana. Una storia popolare dice che fu inventata dagli schiavi con gli scarti della carne, ma molti storici la collegano piuttosto a stufati europei come il cozido portoghese."
+    },
+    "music": {
+      "genre_en": "Samba (and Bossa nova)",
+      "genre_it": "Samba (e Bossa nova)",
+      "song": "Garota de Ipanema (The Girl from Ipanema)",
+      "composer": "Antônio Carlos Jobim (music), Vinicius de Moraes (lyrics)",
+      "artist": "Antônio Carlos (Tom) Jobim",
+      "year": "1962",
+      "song_genre": "Bossa nova",
+      "url": "https://www.youtube.com/watch?v=uW5acE-5280"
+    },
+    "fun_fact_en": "The Samba de Roda of the Recôncavo region of Bahia, one of the roots of modern samba, was proclaimed a Masterpiece of the Oral and Intangible Heritage of Humanity by UNESCO in 2005. Brazil also celebrates National Samba Day every 2 December.",
+    "fun_fact_it": "La Samba de Roda del Recôncavo, regione di Bahia e una delle radici della samba moderna, è stata proclamata dall'UNESCO Capolavoro del Patrimonio orale e immateriale dell'umanità nel 2005. Il Brasile celebra inoltre la Giornata nazionale della Samba ogni 2 dicembre."
+  },
+  {
+    "id": "chile",
+    "name_en": "Chile",
+    "name_it": "Cile",
+    "flag": "🇨🇱",
+    "capital_en": "Santiago",
+    "capital_it": "Santiago del Cile",
+    "dish": {
+      "name": "Empanada de pino",
+      "alternatives": [
+        "Pastel de choclo",
+        "Cazuela"
+      ],
+      "story_en": "The empanada de pino is a baked pastry filled with 'pino': minced or diced beef cooked with plenty of onion and cumin, plus a slice of hard-boiled egg, a black olive and often raisins. It is the star of the Fiestas Patrias around 18 September, when Chileans gather at fondas to eat, drink and dance.",
+      "story_it": "L'empanada de pino è un fagottino al forno ripieno di 'pino': manzo tritato o a dadini cotto con molta cipolla e cumino, con una fetta di uovo sodo, un'oliva nera e spesso uvetta. È la protagonista delle Fiestas Patrias intorno al 18 settembre, quando i cileni si ritrovano nelle fondas per mangiare, brindare e ballare."
+    },
+    "music": {
+      "genre_en": "Cueca",
+      "genre_it": "Cueca",
+      "song": "Gracias a la vida",
+      "composer": "Violeta Parra",
+      "artist": "Violeta Parra",
+      "year": "1966",
+      "song_genre": "Nueva canción chilena (Chilean folk)",
+      "url": "https://www.youtube.com/watch?v=3f9A7Kl4vPU"
+    },
+    "fun_fact_en": "The cueca, a courtship dance in which partners wave handkerchiefs, was officially declared Chile's national dance in 1979. \"Gracias a la vida\", from Violeta Parra's last album (1966), has since been recorded by artists all over the world.",
+    "fun_fact_it": "La cueca, danza di corteggiamento in cui i ballerini sventolano un fazzoletto, è stata dichiarata ufficialmente danza nazionale del Cile nel 1979. \"Gracias a la vida\", tratta dall'ultimo album di Violeta Parra (1966), è stata poi reinterpretata da artisti di tutto il mondo."
+  },
+  {
+    "id": "colombia",
+    "name_en": "Colombia",
+    "name_it": "Colombia",
+    "flag": "🇨🇴",
+    "capital_en": "Bogotá",
+    "capital_it": "Bogotà",
+    "dish": {
+      "name": "Bandeja paisa",
+      "alternatives": [
+        "Ajiaco santafereño",
+        "Arepa"
+      ],
+      "story_en": "The bandeja paisa is a generous platter from the Antioquia region: red beans, rice, ground beef, chicharrón (crispy pork belly), chorizo, fried egg, sweet plantain, avocado and an arepa. It was born as a hearty meal for farm workers. Colombian cuisine is very regional, and many Bogotanos would point to ajiaco, a chicken and potato soup, as their signature dish.",
+      "story_it": "La bandeja paisa è un piatto abbondante della regione di Antioquia: fagioli rossi, riso, carne macinata, chicharrón (pancetta croccante), chorizo, uovo fritto, platano dolce, avocado e un'arepa. Nacque come pasto sostanzioso per i lavoratori dei campi. La cucina colombiana è molto regionale e a Bogotà molti indicherebbero invece l'ajiaco, zuppa di pollo e patate, come piatto simbolo."
+    },
+    "music": {
+      "genre_en": "Cumbia (and Vallenato)",
+      "genre_it": "Cumbia (e Vallenato)",
+      "song": "La pollera colorá",
+      "composer": "Juan Madera Castro (music), Wilson Choperena (lyrics)",
+      "artist": "Pedro Salcedo y su Orquesta",
+      "year": "1960",
+      "song_genre": "Cumbia",
+      "url": "https://www.youtube.com/watch?v=gBgcDYGSSaU"
+    },
+    "fun_fact_en": "Cumbia was born on Colombia's Caribbean coast from Indigenous, African and Spanish influences, and has spread across Latin America, giving rise to local styles in Mexico, Peru, Argentina and beyond. Colombia's vallenato music was also inscribed by UNESCO in 2015.",
+    "fun_fact_it": "La cumbia è nata sulla costa caraibica colombiana dall'incontro di influenze indigene, africane e spagnole, e si è diffusa in tutta l'America Latina dando vita a stili locali in Messico, Perù, Argentina e oltre. Anche il vallenato colombiano è stato iscritto dall'UNESCO nel 2015."
+  },
+  {
+    "id": "costa-rica",
+    "name_en": "Costa Rica",
+    "name_it": "Costa Rica",
+    "flag": "🇨🇷",
+    "capital_en": "San José",
+    "capital_it": "San José",
+    "dish": {
+      "name": "Gallo pinto",
+      "alternatives": [
+        "Casado",
+        "Olla de carne"
+      ],
+      "story_en": "Gallo pinto is rice and black beans fried together with onion, sweet pepper and cilantro, often seasoned with Salsa Lizano and served for breakfast with eggs, tortillas and natilla (sour cream). Both Costa Rica and Nicaragua consider it a national dish, and its exact origin is a friendly, unresolved debate between the two countries.",
+      "story_it": "Il gallo pinto è riso e fagioli neri saltati insieme con cipolla, peperone e coriandolo, spesso insaporiti con la Salsa Lizano e serviti a colazione con uova, tortillas e natilla (panna acida). Sia la Costa Rica sia il Nicaragua lo considerano piatto nazionale, e la sua origine esatta è un amichevole dibattito ancora aperto tra i due Paesi."
+    },
+    "music": {
+      "genre_en": "Guanacaste folk music (marimba, punto, tambito)",
+      "genre_it": "Musica folk del Guanacaste (marimba, punto, tambito)",
+      "song": "Punto guanacasteco",
+      "composer": "Traditional (popularly attributed to Leandro Cabalceta Brau; authorship debated)",
+      "artist": "Traditional (folk ensemble)",
+      "year": "late 19th century",
+      "song_genre": "Punto (Costa Rican folk dance)",
+      "url": "https://www.youtube.com/watch?v=wY2potkXBGg"
+    },
+    "fun_fact_en": "During the Punto guanacasteco, dancers can shout \"¡Bomba!\" to stop the music, and someone recites a short, witty rhyming verse (a 'bomba') before the dance resumes. The gallo pinto rivalry with Nicaragua even turned into competing Guinness World Record attempts for the largest pot, with Costa Rica setting the first record in 2003.",
+    "fun_fact_it": "Durante il Punto guanacasteco i ballerini possono gridare \"¡Bomba!\" per fermare la musica: qualcuno recita allora una breve strofa in rima, spiritosa (una 'bomba'), prima che il ballo riprenda. La rivalità con il Nicaragua sul gallo pinto si è trasformata perfino in tentativi di Guinness dei primati per la pentola più grande: il primo record lo stabilì la Costa Rica nel 2003."
+  },
+  {
+    "id": "cuba",
+    "name_en": "Cuba",
+    "name_it": "Cuba",
+    "flag": "🇨🇺",
+    "capital_en": "Havana",
+    "capital_it": "L'Avana",
+    "dish": {
+      "name": "Ropa vieja",
+      "alternatives": [
+        "Moros y cristianos",
+        "Lechón asado"
+      ],
+      "story_en": "Ropa vieja ('old clothes') is beef slowly stewed and then shredded into strands, cooked in a tomato sofrito with peppers, onion and garlic. Its name comes from its rag-like appearance, and the dish has roots in Spain and the Canary Islands. It is typically served with white rice, black beans and fried plantains.",
+      "story_it": "La ropa vieja ('vestiti vecchi') è manzo stufato a lungo e poi sfilacciato, cotto in un sofrito di pomodoro con peperoni, cipolla e aglio. Il nome deriva dal suo aspetto 'a brandelli' e il piatto ha radici in Spagna e nelle Isole Canarie. Si serve di solito con riso bianco, fagioli neri e platano fritto."
+    },
+    "music": {
+      "genre_en": "Son cubano",
+      "genre_it": "Son cubano",
+      "song": "Chan Chan",
+      "composer": "Compay Segundo",
+      "artist": "Buena Vista Social Club",
+      "year": "1997",
+      "song_genre": "Son cubano",
+      "url": "https://www.youtube.com/watch?v=tGbRZ73NvlY"
+    },
+    "fun_fact_en": "The Buena Vista Social Club album (1997), which opens with \"Chan Chan\", brought veteran Cuban musicians such as Compay Segundo and Ibrahim Ferrer worldwide fame. Another Cuban tradition, rumba, was inscribed by UNESCO as Intangible Cultural Heritage in 2016.",
+    "fun_fact_it": "L'album Buena Vista Social Club (1997), che si apre con \"Chan Chan\", ha regalato fama mondiale a musicisti cubani veterani come Compay Segundo e Ibrahim Ferrer. Un'altra tradizione cubana, la rumba, è stata iscritta dall'UNESCO nel Patrimonio culturale immateriale nel 2016."
+  },
+  {
+    "id": "dominican-republic",
+    "name_en": "Dominican Republic",
+    "name_it": "Repubblica Dominicana",
+    "flag": "🇩🇴",
+    "capital_en": "Santo Domingo",
+    "capital_it": "Santo Domingo",
+    "dish": {
+      "name": "La Bandera Dominicana",
+      "alternatives": [
+        "Sancocho",
+        "Mangú"
+      ],
+      "story_en": "'La Bandera' (the flag) is the everyday Dominican lunch: white rice, stewed red beans (habichuelas) and stewed meat, usually chicken or beef, with a side of salad or fried plantains. Its name reflects how emblematic it is for the country. For celebrations, Dominicans prepare sancocho, a hearty stew with several meats and root vegetables.",
+      "story_it": "'La Bandera' (la bandiera) è il pranzo dominicano di tutti i giorni: riso bianco, fagioli rossi stufati (habichuelas) e carne in umido, di solito pollo o manzo, con insalata o platano fritto. Il nome riflette quanto sia emblematico per il Paese. Per le feste si prepara il sancocho, uno stufato sostanzioso con diverse carni e tuberi."
+    },
+    "music": {
+      "genre_en": "Merengue (and Bachata)",
+      "genre_it": "Merengue (e Bachata)",
+      "song": "Ojalá que llueva café",
+      "composer": "Juan Luis Guerra",
+      "artist": "Juan Luis Guerra 4.40",
+      "year": "1989",
+      "song_genre": "Merengue",
+      "url": "https://www.youtube.com/watch?v=suQC8d-YkeU"
+    },
+    "fun_fact_en": "The Dominican Republic has two music genres on UNESCO's Intangible Cultural Heritage list: merengue (inscribed in 2016) and bachata (inscribed in 2019).",
+    "fun_fact_it": "La Repubblica Dominicana ha due generi musicali nella lista del Patrimonio culturale immateriale UNESCO: il merengue (iscritto nel 2016) e la bachata (iscritta nel 2019)."
+  },
+  {
+    "id": "ecuador",
+    "name_en": "Ecuador",
+    "name_it": "Ecuador",
+    "flag": "🇪🇨",
+    "capital_en": "Quito",
+    "capital_it": "Quito",
+    "dish": {
+      "name": "Encebollado",
+      "alternatives": [
+        "Locro de papa",
+        "Fanesca"
+      ],
+      "story_en": "Encebollado is a comforting fish soup from the coast, made with albacore tuna, yuca and a broth flavoured with tomato, cumin and cilantro, topped with pickled red onion ('cebolla', hence the name). It is typically eaten for breakfast or brunch with banana chips or popcorn, and is famous as a post-party pick-me-up.",
+      "story_it": "L'encebollado è una zuppa di pesce della costa, a base di tonno alalunga, yuca e un brodo profumato con pomodoro, cumino e coriandolo, completata da cipolla rossa marinata ('cebolla', da cui il nome). Si mangia di solito a colazione o a brunch con chips di platano o popcorn, ed è famosa come rimedio dopo una serata di festa."
+    },
+    "music": {
+      "genre_en": "Pasillo",
+      "genre_it": "Pasillo",
+      "song": "El aguacate",
+      "composer": "César Guerrero Tamayo",
+      "artist": "Julio Jaramillo",
+      "year": "c. 1918–1930 (date debated)",
+      "song_genre": "Pasillo",
+      "url": "https://www.youtube.com/watch?v=CRiM-YIIrUI"
+    },
+    "fun_fact_en": "Ecuador celebrates the Día del Pasillo Ecuatoriano every 1 October, the birthday of singer Julio Jaramillo, and in 2021 UNESCO inscribed \"Pasillo, song and poetry\" as Intangible Cultural Heritage. Funnily enough, the word 'aguacate' (avocado) never appears in the lyrics of \"El aguacate\".",
+    "fun_fact_it": "L'Ecuador celebra il Día del Pasillo Ecuatoriano ogni 1° ottobre, compleanno del cantante Julio Jaramillo, e nel 2021 l'UNESCO ha iscritto \"Il pasillo, canto e poesia\" nel Patrimonio culturale immateriale. Curiosamente, la parola 'aguacate' (avocado) non compare mai nel testo di \"El aguacate\"."
+  },
+  {
+    "id": "el-salvador",
+    "name_en": "El Salvador",
+    "name_it": "El Salvador",
+    "flag": "🇸🇻",
+    "capital_en": "San Salvador",
+    "capital_it": "San Salvador",
+    "dish": {
+      "name": "Pupusa",
+      "alternatives": [
+        "Yuca frita con chicharrón",
+        "Panes con pollo"
+      ],
+      "story_en": "Pupusas are thick, hand-patted corn (or rice) tortillas stuffed with cheese, beans, chicharrón or the edible flower loroco, cooked on a griddle and served with curtido (spicy pickled cabbage) and tomato sauce. They are the heart of Salvadoran food culture; neighbouring Honduras also has a long pupusa tradition, and their origin is shared Mesoamerican heritage.",
+      "story_it": "Le pupusas sono tortillas spesse di mais (o riso) modellate a mano e farcite con formaggio, fagioli, chicharrón o loroco (un fiore commestibile), cotte sulla piastra e servite con curtido (cavolo marinato piccante) e salsa di pomodoro. Sono il cuore della cucina salvadoregna; anche il vicino Honduras ha una lunga tradizione di pupusas, e la loro origine è un'eredità mesoamericana condivisa."
+    },
+    "music": {
+      "genre_en": "Folk music (música folclórica, xuc)",
+      "genre_it": "Musica folclorica (xuc)",
+      "song": "El Carbonero",
+      "composer": "Francisco \"Pancho\" Lara",
+      "artist": "Pancho Lara",
+      "year": "1934",
+      "song_genre": "Salvadoran folk",
+      "url": "https://www.youtube.com/watch?v=InZxYt8Ue48"
+    },
+    "fun_fact_en": "In 2005 El Salvador officially declared the pupusa its national dish and established the National Pupusa Day, celebrated every second Sunday of November. \"El Carbonero\" is so beloved it is often called the country's 'second national anthem'.",
+    "fun_fact_it": "Nel 2005 El Salvador ha dichiarato ufficialmente la pupusa piatto nazionale e ha istituito la Giornata nazionale della Pupusa, che si celebra ogni seconda domenica di novembre. \"El Carbonero\" è così amata da essere spesso chiamata il 'secondo inno nazionale' del Paese."
+  },
+  {
+    "id": "guatemala",
+    "name_en": "Guatemala",
+    "name_it": "Guatemala",
+    "flag": "🇬🇹",
+    "capital_en": "Guatemala City",
+    "capital_it": "Città del Guatemala",
+    "dish": {
+      "name": "Pepián",
+      "alternatives": [
+        "Kak'ik",
+        "Tamales / chuchitos"
+      ],
+      "story_en": "Pepián is one of Guatemala's oldest dishes: a thick, spiced stew of chicken or beef with vegetables, in a sauce made from roasted tomatoes, chiles and toasted seeds such as pumpkin and sesame. It blends Maya and Spanish culinary traditions and is recognised as part of the nation's cultural heritage. It is usually served with rice and tortillas.",
+      "story_it": "Il pepián è uno dei piatti più antichi del Guatemala: uno stufato denso e speziato di pollo o manzo con verdure, in una salsa di pomodori arrostiti, peperoncini e semi tostati come zucca e sesamo. Unisce tradizioni culinarie maya e spagnole ed è riconosciuto come parte del patrimonio culturale della nazione. Si serve di solito con riso e tortillas."
+    },
+    "music": {
+      "genre_en": "Marimba music",
+      "genre_it": "Musica per marimba",
+      "song": "Luna de Xelajú",
+      "composer": "Paco Pérez",
+      "artist": "Marimba ensemble (instrumental)",
+      "year": "1944",
+      "song_genre": "Vals (waltz) for marimba",
+      "url": "https://www.youtube.com/watch?v=JMo3CBOqE04"
+    },
+    "fun_fact_en": "Guatemala declared the marimba its national instrument in 1978 and a national symbol in 1999, alongside the flag, the anthem and the quetzal bird. \"Luna de Xelajú\" only won third place in a 1944 song contest, yet today it is considered a 'second national anthem'.",
+    "fun_fact_it": "Il Guatemala ha dichiarato la marimba strumento nazionale nel 1978 e simbolo nazionale nel 1999, accanto a bandiera, inno e uccello quetzal. \"Luna de Xelajú\" arrivò solo terza a un concorso nel 1944, ma oggi è considerata un 'secondo inno nazionale'."
+  },
+  {
+    "id": "honduras",
+    "name_en": "Honduras",
+    "name_it": "Honduras",
+    "flag": "🇭🇳",
+    "capital_en": "Tegucigalpa",
+    "capital_it": "Tegucigalpa",
+    "dish": {
+      "name": "Baleada",
+      "alternatives": [
+        "Sopa de caracol",
+        "Plato típico"
+      ],
+      "story_en": "The baleada is a thick, soft flour tortilla folded over refried red beans, crumbled hard cheese and Honduran cream (mantequilla), often upgraded with scrambled eggs, avocado or meat. Born on the northern Caribbean coast, it is the country's favourite street food, eaten at any time of day.",
+      "story_it": "La baleada è una tortilla di farina di frumento spessa e morbida, ripiegata su fagioli rossi fritti, formaggio duro sbriciolato e panna honduregna (mantequilla), spesso arricchita con uova strapazzate, avocado o carne. Nata sulla costa caraibica settentrionale, è lo street food preferito del Paese, da gustare a qualsiasi ora."
+    },
+    "music": {
+      "genre_en": "Punta (Garifuna music)",
+      "genre_it": "Punta (musica garifuna)",
+      "song": "Sopa de caracol",
+      "composer": "Hernán \"Chico\" Ramos (original Garifuna song); Spanish adaptation by Banda Blanca",
+      "artist": "Banda Blanca",
+      "year": "1991",
+      "song_genre": "Punta",
+      "url": "https://www.youtube.com/watch?v=JkQmrPXwSNU"
+    },
+    "fun_fact_en": "Punta comes from the Garifuna people, of mixed African and Indigenous Caribbean heritage, who live along the Caribbean coast of Central America. Garifuna language, dance and music were proclaimed a UNESCO Masterpiece of Intangible Heritage in 2001 (a joint nomination of Belize, Guatemala, Honduras and Nicaragua). \"Sopa de caracol\" (conch soup) is also a real Honduran coastal dish.",
+    "fun_fact_it": "La punta nasce dal popolo garifuna, di origine africana e caraibica indigena, che vive lungo la costa caraibica dell'America Centrale. Lingua, danza e musica garifuna sono state proclamate dall'UNESCO Capolavoro del patrimonio immateriale nel 2001 (candidatura congiunta di Belize, Guatemala, Honduras e Nicaragua). La \"sopa de caracol\" (zuppa di strombo) è anche un vero piatto della costa honduregna."
+  },
+  {
+    "id": "mexico",
+    "name_en": "Mexico",
+    "name_it": "Messico",
+    "flag": "🇲🇽",
+    "capital_en": "Mexico City",
+    "capital_it": "Città del Messico",
+    "dish": {
+      "name": "Mole poblano",
+      "alternatives": [
+        "Tacos al pastor",
+        "Chiles en nogada"
+      ],
+      "story_en": "Mole poblano is a rich, dark sauce from Puebla made with several kinds of dried chiles, spices, nuts, seeds, tomato and a touch of chocolate, often combining more than twenty ingredients, and served over turkey or chicken. Legend credits the nuns of a Puebla convent with its invention, though its roots go back to pre-Hispanic sauces. It is a dish for big celebrations such as weddings and family feasts.",
+      "story_it": "Il mole poblano è una salsa scura e ricca originaria di Puebla, preparata con diversi tipi di peperoncini secchi, spezie, frutta secca, semi, pomodoro e un tocco di cioccolato, spesso con più di venti ingredienti, e servita su tacchino o pollo. La leggenda ne attribuisce l'invenzione alle suore di un convento di Puebla, ma le sue radici risalgono alle salse preispaniche. È il piatto delle grandi feste, come matrimoni e pranzi di famiglia."
+    },
+    "music": {
+      "genre_en": "Mariachi (and Son jarocho / Ranchera)",
+      "genre_it": "Mariachi (e Son jarocho / Ranchera)",
+      "song": "Cielito lindo",
+      "composer": "Quirino Mendoza y Cortés",
+      "artist": "Mariachi Vargas de Tecalitlán",
+      "year": "1882",
+      "song_genre": "Mariachi / Ranchera",
+      "url": "https://www.youtube.com/watch?v=MR6lwmXGEvc"
+    },
+    "fun_fact_en": "In 2010, traditional Mexican cuisine became one of the first culinary traditions inscribed on UNESCO's Intangible Cultural Heritage list, and mariachi music followed in 2011.",
+    "fun_fact_it": "Nel 2010 la cucina tradizionale messicana è stata una delle prime tradizioni culinarie iscritte nella lista del Patrimonio culturale immateriale UNESCO; la musica mariachi l'ha seguita nel 2011."
+  },
+  {
+    "id": "nicaragua",
+    "name_en": "Nicaragua",
+    "name_it": "Nicaragua",
+    "flag": "🇳🇮",
+    "capital_en": "Managua",
+    "capital_it": "Managua",
+    "dish": {
+      "name": "Nacatamal",
+      "alternatives": [
+        "Gallo pinto",
+        "Vigorón"
+      ],
+      "story_en": "The nacatamal is a large tamal of corn dough filled with seasoned pork, rice, potato, tomato, sweet pepper, onion and mint, wrapped in banana leaves and steamed for hours. In many Nicaraguan homes it is the traditional weekend breakfast, enjoyed with coffee and bread. Gallo pinto (rice and beans) is the everyday national staple, a dish Nicaragua shares with Costa Rica.",
+      "story_it": "Il nacatamal è un grande tamal di impasto di mais farcito con maiale speziato, riso, patata, pomodoro, peperone, cipolla e menta, avvolto in foglie di banano e cotto al vapore per ore. In molte case nicaraguensi è la colazione tradizionale del fine settimana, accompagnata da caffè e pane. Il gallo pinto (riso e fagioli) è invece il piatto nazionale di tutti i giorni, condiviso con la Costa Rica."
+    },
+    "music": {
+      "genre_en": "Son nica (and Palo de Mayo on the Caribbean coast)",
+      "genre_it": "Son nica (e Palo de Mayo sulla costa caraibica)",
+      "song": "Caballito chontaleño",
+      "composer": "Camilo Zapata",
+      "artist": "Camilo Zapata",
+      "year": "1931",
+      "song_genre": "Son nica",
+      "url": "https://www.youtube.com/watch?v=YBcPIrT4v-Y"
+    },
+    "fun_fact_en": "\"El Güegüense\", a satirical street theatre piece with music and dance from colonial times, was the first Nicaraguan tradition proclaimed a UNESCO Masterpiece of Intangible Heritage, in 2005. \"Caballito chontaleño\", written by Camilo Zapata as a teenager, is considered the first son nica ever composed.",
+    "fun_fact_it": "\"El Güegüense\", opera teatrale satirica di strada con musica e danza di epoca coloniale, è stata la prima tradizione nicaraguense proclamata dall'UNESCO Capolavoro del patrimonio immateriale, nel 2005. \"Caballito chontaleño\", scritta da Camilo Zapata da adolescente, è considerata il primo son nica mai composto."
+  },
+  {
+    "id": "panama",
+    "name_en": "Panama",
+    "name_it": "Panama",
+    "flag": "🇵🇦",
+    "capital_en": "Panama City",
+    "capital_it": "Città di Panama",
+    "dish": {
+      "name": "Sancocho de gallina",
+      "alternatives": [
+        "Arroz con pollo",
+        "Carimañolas"
+      ],
+      "story_en": "Panamanian sancocho is a comforting chicken soup with ñame (yam), corn and other root vegetables, flavoured with culantro, onion and garlic, and served with white rice on the side. It is considered the national dish and is prepared for family gatherings, festivities and, famously, as a remedy after a long night out.",
+      "story_it": "Il sancocho panamense è una zuppa di pollo confortante con ñame (igname), mais e altri tuberi, insaporita con culantro, cipolla e aglio, servita con riso bianco a parte. È considerato il piatto nazionale e si prepara per riunioni di famiglia, feste e, notoriamente, come rimedio dopo una lunga notte fuori."
+    },
+    "music": {
+      "genre_en": "Tamborito and Música típica (accordion folk)",
+      "genre_it": "Tamborito e Música típica (folk con fisarmonica)",
+      "song": "Patria",
+      "composer": "Rubén Blades",
+      "artist": "Rubén Blades",
+      "year": "1988",
+      "song_genre": "Salsa",
+      "url": "https://www.youtube.com/watch?v=KdKuAYKv8Os"
+    },
+    "fun_fact_en": "Rubén Blades, one of salsa's greatest singer-songwriters, also served as Panama's Minister of Tourism from 2004 to 2009. His song \"Patria\" is often sung at patriotic celebrations in Panama.",
+    "fun_fact_it": "Rubén Blades, uno dei più grandi cantautori della salsa, è stato anche ministro del Turismo di Panama dal 2004 al 2009. La sua canzone \"Patria\" viene spesso cantata durante le celebrazioni patriottiche panamensi."
+  },
+  {
+    "id": "paraguay",
+    "name_en": "Paraguay",
+    "name_it": "Paraguay",
+    "flag": "🇵🇾",
+    "capital_en": "Asunción",
+    "capital_it": "Asunción",
+    "dish": {
+      "name": "Sopa paraguaya",
+      "alternatives": [
+        "Chipa",
+        "Vori vori"
+      ],
+      "story_en": "Despite its name, sopa paraguaya ('Paraguayan soup') is a solid, savoury cornbread made with corn flour, cheese, onion, milk and eggs. A popular legend says a cook for 19th-century president Carlos Antonio López added too much flour to his soup and baked it, creating a dish everyone loved. It is a must at barbecues and celebrations.",
+      "story_it": "Nonostante il nome, la sopa paraguaya ('zuppa paraguaiana') è un pane di mais salato e compatto, preparato con farina di mais, formaggio, cipolla, latte e uova. Una leggenda popolare racconta che il cuoco del presidente ottocentesco Carlos Antonio López aggiunse troppa farina alla zuppa e la cosse in forno, creando un piatto che piacque a tutti. Non manca mai a grigliate e feste."
+    },
+    "music": {
+      "genre_en": "Guarania and Paraguayan polka (harp music)",
+      "genre_it": "Guarania e polca paraguaiana (musica d'arpa)",
+      "song": "Recuerdos de Ypacaraí",
+      "composer": "Demetrio Ortiz (music), Zulema de Mirkin (lyrics)",
+      "artist": "Luis Alberto del Paraná",
+      "year": "c. 1950",
+      "song_genre": "Guarania",
+      "url": "https://www.youtube.com/watch?v=21IUHTtK4gY"
+    },
+    "fun_fact_en": "Paraguayans love tereré, a cold infusion of yerba mate with medicinal herbs, and in 2020 UNESCO inscribed the traditional knowledge of tereré as Intangible Cultural Heritage. The guarania genre itself was created in 1925 by Paraguayan composer José Asunción Flores.",
+    "fun_fact_it": "I paraguaiani amano il tereré, un'infusione fredda di yerba mate con erbe medicinali, e nel 2020 l'UNESCO ne ha iscritto i saperi tradizionali nel Patrimonio culturale immateriale. Il genere guarania è stato creato nel 1925 dal compositore paraguaiano José Asunción Flores."
+  },
+  {
+    "id": "peru",
+    "name_en": "Peru",
+    "name_it": "Perù",
+    "flag": "🇵🇪",
+    "capital_en": "Lima",
+    "capital_it": "Lima",
+    "dish": {
+      "name": "Ceviche (cebiche)",
+      "alternatives": [
+        "Lomo saltado",
+        "Ají de gallina"
+      ],
+      "story_en": "Ceviche is fresh raw fish 'cooked' in lime juice with chili pepper (ají), red onion and salt, served with sweet potato and corn. Peru considers it its flagship dish (plato bandera) and celebrates National Ceviche Day on 28 June. Versions of ceviche are also traditional in other Pacific countries such as Ecuador and Mexico, and the dish's exact origins are debated.",
+      "story_it": "Il ceviche è pesce crudo freschissimo 'cotto' nel succo di lime con peperoncino (ají), cipolla rossa e sale, servito con patata dolce e mais. Il Perù lo considera il suo piatto bandiera (plato bandera) e celebra la Giornata nazionale del Ceviche il 28 giugno. Versioni di ceviche sono tradizionali anche in altri Paesi del Pacifico come Ecuador e Messico, e le sue origini esatte sono dibattute."
+    },
+    "music": {
+      "genre_en": "Andean music (huayno) and Música criolla (vals criollo)",
+      "genre_it": "Musica andina (huayno) e Música criolla (vals criollo)",
+      "song": "El cóndor pasa",
+      "composer": "Daniel Alomía Robles",
+      "artist": "Los Incas",
+      "year": "1913",
+      "song_genre": "Andean music (from a zarzuela)",
+      "url": "https://www.youtube.com/watch?v=9iLnqxAcZi0"
+    },
+    "fun_fact_en": "In 2023 UNESCO inscribed the practices and meanings associated with Peruvian ceviche as Intangible Cultural Heritage. \"El cóndor pasa\", originally part of a 1913 zarzuela, became known worldwide after Simon & Garfunkel recorded a version in 1970.",
+    "fun_fact_it": "Nel 2023 l'UNESCO ha iscritto le pratiche e i significati legati al ceviche peruviano nel Patrimonio culturale immateriale. \"El cóndor pasa\", nata come parte di una zarzuela del 1913, è diventata famosa in tutto il mondo dopo la versione di Simon & Garfunkel del 1970."
+  },
+  {
+    "id": "puerto-rico",
+    "name_en": "Puerto Rico",
+    "name_it": "Porto Rico",
+    "flag": "🇵🇷",
+    "capital_en": "San Juan",
+    "capital_it": "San Juan",
+    "dish": {
+      "name": "Arroz con gandules",
+      "alternatives": [
+        "Mofongo",
+        "Lechón asado"
+      ],
+      "story_en": "Arroz con gandules is rice cooked with pigeon peas, pork and sofrito (a blend of peppers, onion, garlic and herbs such as recaíto), coloured golden with achiote. Often called Puerto Rico's national dish, it is the centrepiece of Christmas and family celebrations together with roast pork (lechón). Mofongo, mashed fried plantain with garlic and pork cracklings, is the island's other great icon.",
+      "story_it": "L'arroz con gandules è riso cotto con piselli d'Angola (gandules), maiale e sofrito (un trito di peperoni, cipolla, aglio ed erbe come il recaíto), colorato di giallo dall'achiote. Spesso definito il piatto nazionale portoricano, è il protagonista del Natale e delle feste di famiglia insieme al maiale arrosto (lechón). Il mofongo, purè di platano fritto con aglio e ciccioli di maiale, è l'altra grande icona dell'isola."
+    },
+    "music": {
+      "genre_en": "Bomba and Plena (and Salsa)",
+      "genre_it": "Bomba e Plena (e Salsa)",
+      "song": "En mi Viejo San Juan",
+      "composer": "Noel Estrada",
+      "artist": "Trío Vegabajeño",
+      "year": "1942 (first recorded 1943)",
+      "song_genre": "Bolero",
+      "url": "https://www.youtube.com/watch?v=cMaB-LVd7Tg"
+    },
+    "fun_fact_en": "Plena is nicknamed 'el periódico cantado' (the sung newspaper) because its lyrics traditionally told the news and everyday stories of the community. \"En mi Viejo San Juan\" was written in 1942 for the composer's brother, a soldier stationed in Panama who was homesick for the island.",
+    "fun_fact_it": "La plena è soprannominata 'el periódico cantado' (il giornale cantato) perché i suoi testi raccontavano tradizionalmente le notizie e le storie quotidiane della comunità. \"En mi Viejo San Juan\" fu scritta nel 1942 per il fratello del compositore, un soldato di stanza a Panama che aveva nostalgia dell'isola.",
+    "note_en": "Unincorporated territory (Commonwealth) of the United States; culturally part of Latin America.",
+    "note_it": "Territorio non incorporato (Stato Libero Associato) degli Stati Uniti; culturalmente parte dell'America Latina."
+  },
+  {
+    "id": "uruguay",
+    "name_en": "Uruguay",
+    "name_it": "Uruguay",
+    "flag": "🇺🇾",
+    "capital_en": "Montevideo",
+    "capital_it": "Montevideo",
+    "dish": {
+      "name": "Chivito",
+      "alternatives": [
+        "Asado",
+        "Milanesa"
+      ],
+      "story_en": "The chivito is a towering sandwich of thin beef steak with ham, mozzarella, bacon, egg, lettuce, tomato and mayonnaise, usually served with fries. It was invented in 1946 at the El Mejillón bar in Punta del Este: a customer from Argentina asked for goat meat ('chivito'), and the owner, Antonio Carbonaro, improvised with beef instead, keeping the name.",
+      "story_it": "Il chivito è un panino imponente con una sottile bistecca di manzo, prosciutto cotto, mozzarella, pancetta, uovo, lattuga, pomodoro e maionese, servito di solito con patatine. Fu inventato nel 1946 al bar El Mejillón di Punta del Este: una cliente argentina chiese carne di capretto ('chivito') e il proprietario, Antonio Carbonaro, improvvisò con il manzo, mantenendo il nome."
+    },
+    "music": {
+      "genre_en": "Candombe (and Tango, Murga)",
+      "genre_it": "Candombe (e Tango, Murga)",
+      "song": "La Cumparsita",
+      "composer": "Gerardo Matos Rodríguez",
+      "artist": "Orquesta Matos Rodríguez",
+      "year": "1916",
+      "song_genre": "Tango",
+      "url": "https://www.youtube.com/watch?v=Dvx4u4Zd7zQ"
+    },
+    "fun_fact_en": "\"La Cumparsita\", probably the most famous tango in the world, was composed by a young Uruguayan student in Montevideo, and a 1997 law declared it Uruguay's 'cultural and popular anthem'. Candombe, the Afro-Uruguayan drumming tradition heard in Montevideo's Llamadas parades, was inscribed by UNESCO in 2009.",
+    "fun_fact_it": "\"La Cumparsita\", probabilmente il tango più famoso al mondo, fu composta da un giovane studente uruguaiano a Montevideo, e una legge del 1997 l'ha dichiarata 'inno culturale e popolare' dell'Uruguay. Il candombe, tradizione di tamburi afro-uruguaiana che anima le sfilate delle Llamadas a Montevideo, è stato iscritto dall'UNESCO nel 2009."
+  },
+  {
+    "id": "venezuela",
+    "name_en": "Venezuela",
+    "name_it": "Venezuela",
+    "flag": "🇻🇪",
+    "capital_en": "Caracas",
+    "capital_it": "Caracas",
+    "dish": {
+      "name": "Pabellón criollo",
+      "alternatives": [
+        "Arepa",
+        "Hallaca"
+      ],
+      "story_en": "Pabellón criollo is Venezuela's national dish: shredded beef stewed with tomato and peppers, black beans, white rice and fried sweet plantain (tajadas). Its colourful plate is often said to reflect the country's mix of cultures. The arepa, a grilled corn cake that Venezuela shares with Colombia, and the hallaca, a Christmas tamal, are also beloved icons.",
+      "story_it": "Il pabellón criollo è il piatto nazionale venezuelano: manzo sfilacciato stufato con pomodoro e peperoni, fagioli neri, riso bianco e platano dolce fritto (tajadas). Del suo piatto colorato si dice spesso che rifletta la mescolanza di culture del Paese. Anche l'arepa, focaccina di mais alla piastra che il Venezuela condivide con la Colombia, e l'hallaca, tamal natalizio, sono icone amatissime."
+    },
+    "music": {
+      "genre_en": "Joropo (Música llanera)",
+      "genre_it": "Joropo (Música llanera)",
+      "song": "Alma llanera",
+      "composer": "Pedro Elías Gutiérrez (music), Rafael Bolívar Coronado (lyrics)",
+      "artist": "Simón Díaz",
+      "year": "1914",
+      "song_genre": "Joropo",
+      "url": "https://www.youtube.com/watch?v=MPJEv4ufFjo"
+    },
+    "fun_fact_en": "\"Alma llanera\" premiered in 1914 as part of a zarzuela in Caracas and is widely regarded as Venezuela's 'second national anthem'. Joropo is played with harp, maracas and the cuatro, a small four-string guitar considered Venezuela's national instrument.",
+    "fun_fact_it": "\"Alma llanera\" debuttò nel 1914 all'interno di una zarzuela a Caracas ed è considerata il 'secondo inno nazionale' del Venezuela. Il joropo si suona con arpa, maracas e cuatro, una piccola chitarra a quattro corde considerata lo strumento nazionale venezuelano."
+  }
+]
