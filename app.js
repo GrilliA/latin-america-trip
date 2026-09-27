@@ -65,7 +65,7 @@
       openLink: "Apri la canzone",
       searchYouTube: "Cerca su YouTube",
       funFact: "Lo sapevi?",
-      writtenBy: "Autori",
+      writtenBy: "Scritta da",
       typicalMusic: "Musica tipica",
       prev: "Precedente",
       next: "Successivo",
@@ -145,11 +145,11 @@
   function countryName(c) { return pick(c, "name") || c.id; }
   function dishName(c) {
     var d = c.dish || {};
-    return (typeof d === "string") ? d : (d["name_" + state.lang] || d.name || d.name_en || "");
+    return (typeof d === "string") ? d : (d["name_" + state.lang] || d.name_en || d.name || "");
   }
   function alternatives(c) {
     var d = c.dish || {};
-    var a = d["alternatives_" + state.lang] || d.alternatives || d.alternatives_en || [];
+    var a = d["alternatives_" + state.lang] || d.alternatives_en || d.alternatives || [];
     if (typeof a === "string") a = a.split(/\s*[,;]\s*/);
     return (Array.isArray(a) ? a : []).map(function (x) {
       return (x && typeof x === "object") ? (x["name_" + state.lang] || x.name || x.name_en || "") : x;
@@ -269,8 +269,10 @@
     var items = document.querySelectorAll("#grid li");
     var list = sorted(), shown = 0;
     list.forEach(function (c, i) {
-      var mu = c.music || {};
-      var hay = norm([c.name_en, c.name_it, c.capital, c.capital_en, c.capital_it, dishName(c), alternatives(c).join(" "), mu.genre, mu.genre_en, mu.genre_it, mu.song_genre, mu.song, mu.artist].join(" "));
+      var mu = c.music || {}, di = c.dish || {};
+      var hay = norm([c.name_en, c.name_it, c.capital, c.capital_en, c.capital_it, dishName(c), di.name, di.name_en, di.name_it,
+        alternatives(c).join(" "), [].concat(di.alternatives_en || [], di.alternatives_it || []).join(" "),
+        mu.genre, mu.genre_en, mu.genre_it, mu.song_genre, mu.song_genre_en, mu.song_genre_it, mu.song, mu.artist, mu.artist_en, mu.artist_it].join(" "));
       var ok = !q || hay.indexOf(q) !== -1;
       if (items[i]) items[i].hidden = !ok;
       if (ok) shown++;
@@ -311,11 +313,14 @@
     var story = pick(d, "story");
     var fact = pick(c, "fun_fact");
     var capital = pick(c, "capital");
-    var songGenre = m.song_genre || pick(m, "genre");
+    /* every visible music field is language-aware: *_it / *_en, falling back to the plain key */
+    var songGenre = pick(m, "song_genre") || pick(m, "genre");
     var typical = pick(m, "genre");
     var note = pick(c, "note");
-    var composer = (m.composer && norm(m.composer) !== norm(m.artist)) ? m.composer : "";
-    var byline = [m.artist, m.year].filter(function (x) { return x != null && x !== ""; }).join(" · ");
+    var artist = pick(m, "artist");
+    var composerRaw = pick(m, "composer");
+    var composer = (composerRaw && norm(composerRaw) !== norm(artist)) ? composerRaw : "";
+    var byline = [artist, pick(m, "year")].filter(function (x) { return x != null && x !== ""; }).join(" · ");
     document.title = countryName(c) + " · " + t("pageTitle");
 
     app.innerHTML =
