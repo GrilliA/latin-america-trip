@@ -11,7 +11,7 @@
       footer: "Made with ❤️ for our canteen · ¡Buen provecho!",
       kicker: "¡Bienvenidos!",
       heroTitle: "Take a trip to Latin America",
-      heroText: "20 countries, 20 dishes, 20 songs. Tap a flag to discover a signature dish, a song to listen to and a fun fact.",
+      heroText: "{n} countries, {n} dishes, {n} songs. Tap a flag to discover a signature dish, a song to listen to and a fun fact.",
       surprise: "Surprise me",
       countries: "Countries",
       nCountries: "{n} countries",
@@ -39,6 +39,7 @@
       notFound: "We couldn't find that country.",
       sample: "⚠️ SAMPLE CONTENT — the full list of countries is coming soon.",
       pageTitle: "Take a trip to Latin America",
+      metaDescription: "Discover the food and music of {n} countries of Latin America and the Caribbean.",
       playerTitle: "Music player"
     },
     it: {
@@ -46,7 +47,7 @@
       footer: "Fatto con ❤️ per la nostra mensa · ¡Buen provecho!",
       kicker: "¡Bienvenidos!",
       heroTitle: "Fai un viaggio in America Latina",
-      heroText: "20 paesi, 20 piatti, 20 canzoni. Tocca una bandiera per scoprire un piatto tipico, una canzone da ascoltare e una curiosità.",
+      heroText: "{n} paesi, {n} piatti, {n} canzoni. Tocca una bandiera per scoprire un piatto tipico, una canzone da ascoltare e una curiosità.",
       surprise: "Sorprendimi",
       countries: "Paesi",
       nCountries: "{n} paesi",
@@ -74,6 +75,7 @@
       notFound: "Non abbiamo trovato questo paese.",
       sample: "⚠️ CONTENUTI DI ESEMPIO — l'elenco completo dei paesi arriverà a breve.",
       pageTitle: "Fai un viaggio in America Latina",
+      metaDescription: "Scopri il cibo e la musica di {n} paesi dell'America Latina e dei Caraibi.",
       playerTitle: "Lettore musicale"
     }
   };
@@ -102,7 +104,18 @@
     peru: ["#b00d1d", "#e0303f", "#f28b82"],
     puertorico: ["#0050f0", "#6a3fc0", "#ed0000"],
     uruguay: ["#0038a8", "#4a78d0", "#f2b900"],
-    venezuela: ["#00247d", "#f2b900", "#cf142b"]
+    venezuela: ["#00247d", "#f2b900", "#cf142b"],
+    antiguaandbarbuda: ["#ce1126", "#0072c6", "#fcd116"],
+    bahamas: ["#00778b", "#ffc72c", "#1a1a1a"],
+    barbados: ["#00267f", "#ffc726", "#00267f"],
+    dominica: ["#006b3f", "#d41c30", "#fcd116"],
+    grenada: ["#ce1126", "#fcd116", "#007a5e"],
+    haiti: ["#00209f", "#d21034", "#00209f"],
+    jamaica: ["#009b3a", "#fed100", "#1a1a1a"],
+    saintkittsandnevis: ["#009e49", "#fcd116", "#ce1126"],
+    saintlucia: ["#1f8fd6", "#fcd116", "#1a1a1a"],
+    saintvincentandthegrenadines: ["#0072c6", "#fcd116", "#009e60"],
+    trinidadandtobago: ["#ce1126", "#1a1a1a", "#ce1126"]
   };
 
   var state = { lang: "en", countries: [], isSample: false, loaded: false, error: false, query: "" };
@@ -110,7 +123,7 @@
   /* ---------- helpers ---------- */
   function t(key, vars) {
     var s = (I18N[state.lang] && I18N[state.lang][key]) || I18N.en[key] || key;
-    if (vars) Object.keys(vars).forEach(function (k) { s = s.replace("{" + k + "}", vars[k]); });
+    if (vars) Object.keys(vars).forEach(function (k) { s = s.split("{" + k + "}").join(vars[k]); });
     return s;
   }
   function esc(v) {
@@ -224,13 +237,15 @@
 
   function renderHome() {
     document.title = t("pageTitle");
+    var md = document.querySelector('meta[name="description"]');
+    if (md) md.setAttribute("content", t("metaDescription", { n: state.countries.length }));
     var list = sorted();
     app.innerHTML =
       sampleBanner() +
       '<section class="hero">' +
         '<div class="kicker">' + esc(t("kicker")) + "</div>" +
         "<h1>" + esc(t("heroTitle")) + "</h1>" +
-        "<p>" + esc(t("heroText")) + "</p>" +
+        "<p>" + esc(t("heroText", { n: state.countries.length })) + "</p>" +
         '<div class="hero-emojis" aria-hidden="true"><span>🌮</span><span>🥘</span><span>🎺</span><span>🪇</span><span>💃</span><span>🥑</span></div>' +
         '<div class="hero-actions"><button type="button" class="btn" id="surprise">🎲 ' + esc(t("surprise")) + "</button></div>" +
       "</section>" +

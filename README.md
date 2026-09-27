@@ -3,7 +3,7 @@
 Plain HTML/CSS/vanilla JS. No build step, no backend.
 
 - `index.html`, `styles.css`, `app.js` — the app
-- `content.json` — the data (20 countries). Edit it and redeploy; nothing else to change.
+- `content.json` — the data (31 countries; the home page count is computed from this file). Edit it and redeploy; nothing else to change.
 
 Local preview: `python3 -m http.server 8000` in this folder, then open http://localhost:8000/
 

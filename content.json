@@ -1,5 +1,34 @@
 [
   {
+    "id": "antigua-and-barbuda",
+    "name_en": "Antigua and Barbuda",
+    "name_it": "Antigua e Barbuda",
+    "flag": "🇦🇬",
+    "capital_en": "St. John's",
+    "capital_it": "Saint John's",
+    "dish": {
+      "name": "Fungee and pepperpot",
+      "alternatives": [
+        "Ducana and saltfish",
+        "Seasoned rice"
+      ],
+      "story_en": "The national dish pairs fungee, a smooth ball of cornmeal cooked with okra (a little like polenta), with pepperpot, a thick, hearty stew of leafy greens, aubergine, squash, okra and salted or fresh meat. It is a filling, home-style Saturday favourite. Ducana, a sweet potato and coconut dumpling served with saltfish, is another island classic.",
+      "story_it": "Il piatto nazionale unisce il fungee, una palla morbida di farina di mais cotta con l'okra (un po' come la polenta), al pepperpot, uno stufato denso di verdure a foglia, melanzane, zucca, okra e carne salata o fresca. È un piatto casalingo e sostanzioso, amato soprattutto il sabato. Il ducana, gnocco di patata dolce e cocco servito con baccalà, è un altro classico dell'isola."
+    },
+    "music": {
+      "genre_en": "Calypso and Soca (and Benna folk songs)",
+      "genre_it": "Calypso e Soca (e canti folk Benna)",
+      "song": "Tourist Leggo",
+      "composer": "King Short Shirt",
+      "artist": "King Short Shirt",
+      "year": "1976",
+      "song_genre": "Calypso",
+      "url": "https://www.youtube.com/watch?v=wByOFAifeGY"
+    },
+    "fun_fact_en": "Hell's Gate Steel Orchestra, founded in Antigua in 1945, is one of the oldest steel bands in the world. The Antigua Black Pineapple, famous for its sweetness, is the national fruit and appears on the country's coat of arms.",
+    "fun_fact_it": "La Hell's Gate Steel Orchestra, fondata ad Antigua nel 1945, è una delle steel band più antiche del mondo. L'Antigua Black Pineapple, un ananas famoso per la sua dolcezza, è il frutto nazionale e compare nello stemma del Paese."
+  },
+  {
     "id": "argentina",
     "name_en": "Argentina",
     "name_it": "Argentina",
@@ -27,6 +56,64 @@
     },
     "fun_fact_en": "Tango was born in the working-class neighbourhoods around the Río de la Plata, and in 2009 UNESCO inscribed it as Intangible Cultural Heritage in a joint nomination by Argentina and Uruguay.",
     "fun_fact_it": "Il tango è nato nei quartieri popolari sulle rive del Río de la Plata e nel 2009 l'UNESCO lo ha iscritto nel Patrimonio culturale immateriale con una candidatura congiunta di Argentina e Uruguay."
+  },
+  {
+    "id": "bahamas",
+    "name_en": "Bahamas",
+    "name_it": "Bahamas",
+    "flag": "🇧🇸",
+    "capital_en": "Nassau",
+    "capital_it": "Nassau",
+    "dish": {
+      "name": "Cracked conch with peas 'n' rice",
+      "alternatives": [
+        "Conch salad",
+        "Guava duff"
+      ],
+      "story_en": "Conch (a large sea snail) is the soul of Bahamian cooking. For cracked conch, the meat is pounded tender, battered and fried until golden, then served with peas 'n' rice (rice cooked with pigeon peas, tomato and thyme). Fresh conch salad, prepared to order at seaside stands with lime, onion, peppers and tomato, is just as iconic.",
+      "story_it": "Lo strombo (conch, un grande mollusco marino) è l'anima della cucina bahamense. Per il cracked conch la carne viene battuta per renderla tenera, impanata e fritta fino a doratura, poi servita con peas 'n' rice (riso cotto con piselli d'Angola, pomodoro e timo). Altrettanto iconica è la conch salad, preparata al momento nei chioschi sul mare con lime, cipolla, peperoni e pomodoro."
+    },
+    "music": {
+      "genre_en": "Junkanoo (and Rake-and-scrape)",
+      "genre_it": "Junkanoo (e Rake-and-scrape)",
+      "song": "Funky Nassau",
+      "composer": "Ray Munnings & Tyrone Fitzgerald",
+      "artist": "The Beginning of the End",
+      "year": "1971",
+      "song_genre": "Funk (with Bahamian Junkanoo influences)",
+      "url": "https://www.youtube.com/watch?v=PGGprHqqMqk"
+    },
+    "fun_fact_en": "Junkanoo is the Bahamas' great street festival: in the early hours of Boxing Day (26 December) and New Year's Day, groups parade along Bay Street in Nassau in huge crepe-paper costumes, to goatskin drums, cowbells and horns. \"Funky Nassau\", by a band from Nassau, reached the US Billboard Top 20 in 1971.",
+    "fun_fact_it": "Il Junkanoo è la grande festa di strada delle Bahamas: nelle prime ore del 26 dicembre (Boxing Day) e di Capodanno, i gruppi sfilano lungo Bay Street a Nassau con enormi costumi di carta crespa, al ritmo di tamburi di pelle di capra, campanacci e trombe. \"Funky Nassau\", di una band di Nassau, entrò nella Top 20 di Billboard negli Stati Uniti nel 1971."
+  },
+  {
+    "id": "barbados",
+    "name_en": "Barbados",
+    "name_it": "Barbados",
+    "flag": "🇧🇧",
+    "capital_en": "Bridgetown",
+    "capital_it": "Bridgetown",
+    "dish": {
+      "name": "Cou-cou and flying fish",
+      "alternatives": [
+        "Macaroni pie",
+        "Pudding and souse"
+      ],
+      "story_en": "Barbados' national dish combines cou-cou, a smooth cornmeal and okra mash (a cousin of polenta), with flying fish steamed or fried in a spicy tomato and onion sauce. The flying fish is so closely tied to the island that Barbados is nicknamed 'the land of the flying fish'. Macaroni pie is the beloved Sunday-lunch side.",
+      "story_it": "Il piatto nazionale delle Barbados unisce il cou-cou, un purè morbido di farina di mais e okra (parente della polenta), al pesce volante cotto al vapore o fritto in una salsa speziata di pomodoro e cipolla. Il pesce volante è così legato all'isola che Barbados è soprannominata 'la terra del pesce volante'. Il macaroni pie è il contorno amatissimo del pranzo della domenica."
+    },
+    "music": {
+      "genre_en": "Soca and Calypso (and Spouge, Tuk band)",
+      "genre_it": "Soca e Calypso (e Spouge, Tuk band)",
+      "song": "Pump Me Up",
+      "composer": "Edwin Yearwood / Krosfyah",
+      "artist": "Krosfyah (Edwin Yearwood)",
+      "year": "1995",
+      "song_genre": "Soca",
+      "url": "https://www.youtube.com/watch?v=0dKLZAXHB8E"
+    },
+    "fun_fact_en": "Crop Over, Barbados' biggest festival, has its roots in celebrations marking the end of the sugar cane harvest and culminates in the Grand Kadooment parade on the first Monday of August. In 1995 Edwin Yearwood, singer of \"Pump Me Up\", became the first artist to win the Party Monarch, Road March and Calypso Monarch titles in the same Crop Over season.",
+    "fun_fact_it": "Il Crop Over, la festa più grande delle Barbados, nasce dalle celebrazioni per la fine del raccolto della canna da zucchero e culmina nella parata del Grand Kadooment il primo lunedì di agosto. Nel 1995 Edwin Yearwood, voce di \"Pump Me Up\", è stato il primo artista a vincere nella stessa stagione i titoli di Party Monarch, Road March e Calypso Monarch."
   },
   {
     "id": "bolivia",
@@ -203,6 +290,35 @@
     "fun_fact_it": "L'album Buena Vista Social Club (1997), che si apre con \"Chan Chan\", ha regalato fama mondiale a musicisti cubani veterani come Compay Segundo e Ibrahim Ferrer. Un'altra tradizione cubana, la rumba, è stata iscritta dall'UNESCO nel Patrimonio culturale immateriale nel 2016."
   },
   {
+    "id": "dominica",
+    "name_en": "Dominica",
+    "name_it": "Dominica",
+    "flag": "🇩🇲",
+    "capital_en": "Roseau",
+    "capital_it": "Roseau",
+    "dish": {
+      "name": "Callaloo",
+      "alternatives": [
+        "Fig and saltfish (green banana with salt cod)",
+        "Titiwi (tiny river-fish fritters)"
+      ],
+      "story_en": "Callaloo is a velvety green soup made from young dasheen (taro) leaves, okra and coconut milk, often enriched with crab or salted meat. It was chosen as Dominica's official national dish in 2013 after nationwide public surveys. Dominica is the 'Nature Island', and its cuisine is based on local ground provisions, fresh herbs and river and sea fish.",
+      "story_it": "Il callaloo è una vellutata verde di giovani foglie di dasheen (taro), okra e latte di cocco, spesso arricchita con granchio o carne salata. È stato scelto come piatto nazionale ufficiale della Dominica nel 2013, dopo una serie di sondaggi tra la popolazione. La Dominica è l'«isola della natura» e la sua cucina si basa su tuberi locali, erbe fresche e pesce di fiume e di mare."
+    },
+    "music": {
+      "genre_en": "Bouyon and Cadence-lypso",
+      "genre_it": "Bouyon e Cadence-lypso",
+      "song": "Aie Dominique",
+      "composer": "",
+      "artist": "Ophelia (Ophelia Marie)",
+      "year": "1978",
+      "song_genre": "Cadence-lypso",
+      "url": "https://www.youtube.com/watch?v=DwU5iUv3xLo"
+    },
+    "fun_fact_en": "Callaloo replaced the unofficial former national dish, 'mountain chicken' (actually a giant frog), after disease pushed the species to the brink of extinction; it is now critically endangered and protected. Dominica created the bouyon music genre in the late 1980s and hosts the World Creole Music Festival in Roseau every October.",
+    "fun_fact_it": "Il callaloo ha sostituito l'ex piatto nazionale non ufficiale, il 'mountain chicken' (in realtà una rana gigante), dopo che una malattia ha portato la specie sull'orlo dell'estinzione: oggi è in pericolo critico e protetta. La Dominica ha dato vita al genere musicale bouyon alla fine degli anni '80 e ospita ogni ottobre a Roseau il World Creole Music Festival."
+  },
+  {
     "id": "dominican-republic",
     "name_en": "Dominican Republic",
     "name_it": "Repubblica Dominicana",
@@ -290,6 +406,35 @@
     "fun_fact_it": "Nel 2005 El Salvador ha dichiarato ufficialmente la pupusa piatto nazionale e ha istituito la Giornata nazionale della Pupusa, che si celebra ogni seconda domenica di novembre. \"El Carbonero\" è così amata da essere spesso chiamata il 'secondo inno nazionale' del Paese."
   },
   {
+    "id": "grenada",
+    "name_en": "Grenada",
+    "name_it": "Grenada",
+    "flag": "🇬🇩",
+    "capital_en": "St. George's",
+    "capital_it": "Saint George's",
+    "dish": {
+      "name": "Oil down",
+      "alternatives": [
+        "Lambie (conch) souse",
+        "Nutmeg ice cream"
+      ],
+      "story_en": "Oil down is a one-pot feast of breadfruit, salted meat or fish, dumplings, callaloo leaves and vegetables, slowly steamed in coconut milk coloured with turmeric until all the liquid is absorbed, leaving just a little coconut 'oil' at the bottom of the pot, hence the name. It is typically cooked outdoors in a big pot and shared among friends and family.",
+      "story_it": "L'oil down è un piatto unico cotto in un solo pentolone: albero del pane, carne o pesce salati, gnocchi, foglie di callaloo e verdure, cotti lentamente nel latte di cocco colorato con curcuma finché tutto il liquido viene assorbito e sul fondo resta solo un po' di 'olio' di cocco, da cui il nome. Di solito si cucina all'aperto in una grande pentola e si condivide con amici e famiglia."
+    },
+    "music": {
+      "genre_en": "Soca and Jab Jab (Spicemas), Calypso",
+      "genre_it": "Soca e Jab Jab (Spicemas), Calypso",
+      "song": "Jambalasee Rule",
+      "composer": "",
+      "artist": "MOSS International",
+      "year": "1991",
+      "song_genre": "Jab Jab soca",
+      "url": "https://www.youtube.com/watch?v=g-4aK25E2Ys"
+    },
+    "fun_fact_en": "Grenada is the 'Spice Isle': a nutmeg is depicted on its national flag. During its carnival, Spicemas, 'jab jab' revellers cover themselves in oil or molasses for the J'ouvert celebrations at dawn. \"Jambalasee Rule\", Road March winner in 1991, is credited with launching the modern jab jab music style.",
+    "fun_fact_it": "Grenada è l'«isola delle spezie»: sulla sua bandiera nazionale è raffigurata una noce moscata. Durante il carnevale, lo Spicemas, i 'jab jab' si ricoprono di olio o melassa per il J'ouvert all'alba. \"Jambalasee Rule\", vincitrice della Road March nel 1991, è considerata la canzone che ha lanciato lo stile musicale jab jab moderno."
+  },
+  {
     "id": "guatemala",
     "name_en": "Guatemala",
     "name_it": "Guatemala",
@@ -319,6 +464,35 @@
     "fun_fact_it": "Il Guatemala ha dichiarato la marimba strumento nazionale nel 1978 e simbolo nazionale nel 1999, accanto a bandiera, inno e uccello quetzal. \"Luna de Xelajú\" arrivò solo terza a un concorso nel 1944, ma oggi è considerata un 'secondo inno nazionale'."
   },
   {
+    "id": "haiti",
+    "name_en": "Haiti",
+    "name_it": "Haiti",
+    "flag": "🇭🇹",
+    "capital_en": "Port-au-Prince",
+    "capital_it": "Port-au-Prince",
+    "dish": {
+      "name": "Soup joumou",
+      "alternatives": [
+        "Griot with diri ak pwa (fried pork with rice and beans)",
+        "Diri djon djon (black mushroom rice)"
+      ],
+      "story_en": "Soup joumou is a rich squash soup with beef, vegetables and pasta, eaten by Haitians everywhere on 1 January, Independence Day. Under French colonial rule it was reserved for the enslaved people's masters; after independence in 1804, eating it became a celebration of freedom and dignity.",
+      "story_it": "La soup joumou è una ricca zuppa di zucca con manzo, verdure e pasta, che gli haitiani di tutto il mondo mangiano il 1° gennaio, festa dell'Indipendenza. Durante il dominio coloniale francese era riservata ai padroni degli schiavi; dopo l'indipendenza del 1804 mangiarla è diventata una celebrazione di libertà e dignità."
+    },
+    "music": {
+      "genre_en": "Kompa (Konpa)",
+      "genre_it": "Kompa (Konpa)",
+      "song": "New York City",
+      "composer": "",
+      "artist": "Tabou Combo",
+      "year": "1974",
+      "song_genre": "Kompa",
+      "url": "https://www.youtube.com/watch?v=6Yats3CDhXs"
+    },
+    "fun_fact_en": "In 2021 UNESCO inscribed soup joumou on its Intangible Cultural Heritage list, Haiti's first element on that list. Kompa music was launched in 1955 by saxophonist Nemours Jean-Baptiste, and Tabou Combo, the 'ambassadors of konpa', were the first Caribbean band to top the French singles chart, with \"New York City\".",
+    "fun_fact_it": "Nel 2021 l'UNESCO ha iscritto la soup joumou nella lista del Patrimonio culturale immateriale: è il primo elemento di Haiti in quella lista. La musica kompa fu lanciata nel 1955 dal sassofonista Nemours Jean-Baptiste, e i Tabou Combo, 'ambasciatori del konpa', sono stati la prima band caraibica a raggiungere il primo posto della classifica francese dei singoli, con \"New York City\"."
+  },
+  {
     "id": "honduras",
     "name_en": "Honduras",
     "name_it": "Honduras",
@@ -346,6 +520,35 @@
     },
     "fun_fact_en": "Punta comes from the Garifuna people, of mixed African and Indigenous Caribbean heritage, who live along the Caribbean coast of Central America. Garifuna language, dance and music were proclaimed a UNESCO Masterpiece of Intangible Heritage in 2001 (a joint nomination of Belize, Guatemala, Honduras and Nicaragua). \"Sopa de caracol\" (conch soup) is also a real Honduran coastal dish.",
     "fun_fact_it": "La punta nasce dal popolo garifuna, di origine africana e caraibica indigena, che vive lungo la costa caraibica dell'America Centrale. Lingua, danza e musica garifuna sono state proclamate dall'UNESCO Capolavoro del patrimonio immateriale nel 2001 (candidatura congiunta di Belize, Guatemala, Honduras e Nicaragua). La \"sopa de caracol\" (zuppa di strombo) è anche un vero piatto della costa honduregna."
+  },
+  {
+    "id": "jamaica",
+    "name_en": "Jamaica",
+    "name_it": "Giamaica",
+    "flag": "🇯🇲",
+    "capital_en": "Kingston",
+    "capital_it": "Kingston",
+    "dish": {
+      "name": "Ackee and saltfish",
+      "alternatives": [
+        "Jerk chicken",
+        "Curry goat with rice and peas"
+      ],
+      "story_en": "Jamaica's national dish combines ackee, a fruit whose soft yellow flesh looks and tastes a little like scrambled egg, with salted cod sautéed with onion, tomato, peppers and Scotch bonnet chilli. It is a classic breakfast, often served with fried dumplings, boiled green bananas or breadfruit.",
+      "story_it": "Il piatto nazionale giamaicano unisce l'ackee, un frutto dalla polpa gialla e morbida che nell'aspetto e nel gusto ricorda un po' l'uovo strapazzato, al baccalà saltato con cipolla, pomodoro, peperoni e peperoncino Scotch bonnet. È una classica colazione, spesso servita con gnocchi fritti, banane verdi bollite o albero del pane."
+    },
+    "music": {
+      "genre_en": "Reggae (and Ska, Mento)",
+      "genre_it": "Reggae (e Ska, Mento)",
+      "song": "One Love / People Get Ready",
+      "composer": "Bob Marley (incorporating Curtis Mayfield's \"People Get Ready\")",
+      "artist": "Bob Marley & The Wailers",
+      "year": "1977",
+      "song_genre": "Reggae",
+      "url": "https://www.youtube.com/watch?v=IN0KkGeEURw"
+    },
+    "fun_fact_en": "Reggae music of Jamaica was inscribed on UNESCO's Intangible Cultural Heritage list in 2018. The ackee fruit, originally from West Africa, is Jamaica's national fruit; it is only eaten once the pod has ripened and opened naturally, because unripe ackee is toxic.",
+    "fun_fact_it": "La musica reggae giamaicana è stata iscritta nella lista del Patrimonio culturale immateriale UNESCO nel 2018. L'ackee, originario dell'Africa occidentale, è il frutto nazionale della Giamaica; si mangia solo quando il frutto è maturo e si è aperto da solo, perché l'ackee acerbo è tossico."
   },
   {
     "id": "mexico",
@@ -522,6 +725,122 @@
     "fun_fact_it": "La plena è soprannominata 'el periódico cantado' (il giornale cantato) perché i suoi testi raccontavano tradizionalmente le notizie e le storie quotidiane della comunità. \"En mi Viejo San Juan\" fu scritta nel 1942 per il fratello del compositore, un soldato di stanza a Panama che aveva nostalgia dell'isola.",
     "note_en": "Unincorporated territory (Commonwealth) of the United States; culturally part of Latin America.",
     "note_it": "Territorio non incorporato (Stato Libero Associato) degli Stati Uniti; culturalmente parte dell'America Latina."
+  },
+  {
+    "id": "saint-kitts-and-nevis",
+    "name_en": "Saint Kitts and Nevis",
+    "name_it": "Saint Kitts e Nevis",
+    "flag": "🇰🇳",
+    "capital_en": "Basseterre",
+    "capital_it": "Basseterre",
+    "dish": {
+      "name": "Stewed saltfish with spicy plantains, coconut dumplings and seasoned breadfruit",
+      "alternatives": [
+        "Goat water",
+        "Johnny cakes"
+      ],
+      "story_en": "The national dish brings together four island favourites: salt cod stewed with tomato, onion and peppers, fried spiced plantains, coconut dumplings and seasoned breadfruit. It was chosen in 2003 through a national competition to mark 20 years of independence, because it uses produce found locally. Goat water, a spicy goat stew, is the other great Kittitian classic.",
+      "story_it": "Il piatto nazionale riunisce quattro specialità dell'isola: baccalà stufato con pomodoro, cipolla e peperoni, platano speziato fritto, gnocchi al cocco e albero del pane condito. È stato scelto nel 2003 con un concorso nazionale per i 20 anni dell'indipendenza, perché utilizza prodotti locali. Il goat water, uno stufato di capra speziato, è l'altro grande classico di Saint Kitts."
+    },
+    "music": {
+      "genre_en": "Calypso and Soca (and String band music)",
+      "genre_it": "Calypso e Soca (e musica String band)",
+      "song": "Sugar City Jam",
+      "composer": "King Ellie Matt",
+      "artist": "Ellie Matt & The G.I.'s Brass",
+      "year": "1978",
+      "song_genre": "Calypso / Soca",
+      "url": "https://www.youtube.com/watch?v=xx5nxHEqVnE"
+    },
+    "fun_fact_en": "Unlike most Caribbean carnivals, St Kitts' carnival, 'Sugar Mas', takes place over the Christmas and New Year season, from December into early January. \"Sugar City Jam\" (Basseterre is nicknamed 'Sugar City') won the Road March in 1978, one of many for King Ellie Matt.",
+    "fun_fact_it": "A differenza della maggior parte dei carnevali caraibici, quello di Saint Kitts, lo 'Sugar Mas', si svolge durante le feste di Natale e Capodanno, da dicembre ai primi di gennaio. \"Sugar City Jam\" (Basseterre è soprannominata 'Sugar City') ha vinto la Road March nel 1978, una delle tante per King Ellie Matt."
+  },
+  {
+    "id": "saint-lucia",
+    "name_en": "Saint Lucia",
+    "name_it": "Santa Lucia",
+    "flag": "🇱🇨",
+    "capital_en": "Castries",
+    "capital_it": "Castries",
+    "dish": {
+      "name": "Green fig and saltfish",
+      "alternatives": [
+        "Bouyon (hearty meat and vegetable soup)",
+        "Accra (saltfish fritters)"
+      ],
+      "story_en": "Saint Lucia's national dish pairs 'green figs', the local name for boiled unripe bananas, with salted cod sautéed with onion, peppers, garlic and herbs. Bananas have long been one of the island's main crops, and this simple, filling dish is enjoyed at breakfast or lunch across the island.",
+      "story_it": "Il piatto nazionale di Santa Lucia unisce i 'green figs', nome locale delle banane verdi bollite, al baccalà saltato con cipolla, peperoni, aglio ed erbe. Le banane sono da tempo una delle principali coltivazioni dell'isola, e questo piatto semplice e sostanzioso si gusta a colazione o a pranzo in tutta l'isola."
+    },
+    "music": {
+      "genre_en": "Soca and Calypso (and Kwadril folk dance music)",
+      "genre_it": "Soca e Calypso (e musica folk Kwadril)",
+      "song": "Pressure Boom",
+      "composer": "",
+      "artist": "Ricky T",
+      "year": "2007",
+      "song_genre": "Bouyon soca",
+      "url": "https://www.youtube.com/watch?v=BDx5p7t7lz0"
+    },
+    "fun_fact_en": "Saint Lucia has two historic rival singing societies, La Rose and La Marguerite, which celebrate their flower festivals every year on 30 August and 17 October with traditional songs, costumes and pageantry. \"Pressure Boom\" blended bouyon and soca and became popular across the English-speaking Caribbean.",
+    "fun_fact_it": "Santa Lucia ha due storiche società canore rivali, La Rose e La Marguerite, che celebrano ogni anno le loro feste dei fiori il 30 agosto e il 17 ottobre con canti tradizionali, costumi e sfilate. \"Pressure Boom\" ha fuso bouyon e soca ed è diventata popolare in tutti i Caraibi anglofoni."
+  },
+  {
+    "id": "saint-vincent-and-the-grenadines",
+    "name_en": "Saint Vincent and the Grenadines",
+    "name_it": "Saint Vincent e Grenadine",
+    "flag": "🇻🇨",
+    "capital_en": "Kingstown",
+    "capital_it": "Kingstown",
+    "dish": {
+      "name": "Roasted breadfruit and fried jackfish",
+      "alternatives": [
+        "Buljol (saltfish salad)",
+        "Callaloo soup"
+      ],
+      "story_en": "The national dish is breadfruit roasted whole over an open fire until charred, then peeled and sliced, served with jackfish marinated in lime and herbs and fried until golden. Breadfruit is celebrated every year at a national Breadfruit Festival in August.",
+      "story_it": "Il piatto nazionale è l'albero del pane (breadfruit) arrostito intero sul fuoco vivo finché la buccia si carbonizza, poi sbucciato e tagliato a fette, servito con pesce jack marinato nel lime e nelle erbe e fritto fino a doratura. Ogni anno in agosto l'albero del pane viene celebrato con un Breadfruit Festival nazionale."
+    },
+    "music": {
+      "genre_en": "Soca and Calypso (Vincy Mas)",
+      "genre_it": "Soca e Calypso (Vincy Mas)",
+      "song": "Turn Me On",
+      "composer": "Kevin Lyttle",
+      "artist": "Kevin Lyttle",
+      "year": "2001 (international release 2003)",
+      "song_genre": "Soca",
+      "url": "https://www.youtube.com/watch?v=GP3Exc5tCtc"
+    },
+    "fun_fact_en": "Breadfruit arrived in St Vincent in 1793 aboard Captain William Bligh's ship, brought from the South Pacific; the island's Botanic Gardens, founded in 1765 and considered the oldest in the Western Hemisphere, still hold a tree said to descend from one of Bligh's original plants. \"Turn Me On\" took Vincentian soca to the top of international charts in 2003–2004.",
+    "fun_fact_it": "L'albero del pane arrivò a Saint Vincent nel 1793 a bordo della nave del capitano William Bligh, dal Pacifico meridionale; il Giardino botanico dell'isola, fondato nel 1765 e considerato il più antico dell'emisfero occidentale, conserva ancora un albero che si dice discenda da una delle piante originali di Bligh. \"Turn Me On\" ha portato la soca vincentina ai vertici delle classifiche internazionali nel 2003–2004."
+  },
+  {
+    "id": "trinidad-and-tobago",
+    "name_en": "Trinidad and Tobago",
+    "name_it": "Trinidad e Tobago",
+    "flag": "🇹🇹",
+    "capital_en": "Port of Spain",
+    "capital_it": "Port of Spain",
+    "dish": {
+      "name": "Crab and callaloo",
+      "alternatives": [
+        "Doubles",
+        "Pelau"
+      ],
+      "story_en": "Callaloo is a smooth, rich soup of dasheen leaves, okra, pumpkin and coconut milk, flavoured with herbs and often cooked with crab, traditionally served for Sunday lunch. The islands' food reflects African, Indian, Chinese, European and Indigenous influences: doubles (curried chickpeas in fried flatbread) are the favourite street breakfast, and pelau (rice, pigeon peas and caramelised meat) is a one-pot classic.",
+      "story_it": "Il callaloo è una zuppa densa e vellutata di foglie di dasheen, okra, zucca e latte di cocco, profumata di erbe e spesso cotta con il granchio, servita tradizionalmente a pranzo la domenica. La cucina delle isole riflette influenze africane, indiane, cinesi, europee e indigene: i doubles (ceci al curry in pane fritto) sono la colazione di strada preferita, e il pelau (riso, piselli d'Angola e carne caramellata) è un classico piatto unico."
+    },
+    "music": {
+      "genre_en": "Calypso and Soca (and Steelpan)",
+      "genre_it": "Calypso e Soca (e Steelpan)",
+      "song": "London Is the Place for Me",
+      "composer": "Lord Kitchener",
+      "artist": "Lord Kitchener",
+      "year": "1948 (recorded 1951)",
+      "song_genre": "Calypso",
+      "url": "https://www.youtube.com/watch?v=Q93QkVsbepM"
+    },
+    "fun_fact_en": "The steelpan, made from oil drums, was invented in Trinidad and Tobago in the mid-20th century; it was declared the national instrument in 1992 and formally made official by law in 2024. Lord Kitchener famously sang \"London Is the Place for Me\" for newsreel cameras as he arrived in Britain on the Empire Windrush in 1948.",
+    "fun_fact_it": "Lo steelpan, ricavato dai bidoni del petrolio, è stato inventato a Trinidad e Tobago a metà del Novecento; è stato dichiarato strumento nazionale nel 1992 e reso ufficiale per legge nel 2024. Lord Kitchener cantò la celebre \"London Is the Place for Me\" davanti alle telecamere dei cinegiornali al suo arrivo in Gran Bretagna sulla Empire Windrush nel 1948."
   },
   {
     "id": "uruguay",
